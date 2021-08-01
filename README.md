@@ -1,0 +1,1 @@
+Form Covid 19 information, includes questions and options to mark an answer. The main elements of a form are checkboxes, radio buttons, sliders. 
